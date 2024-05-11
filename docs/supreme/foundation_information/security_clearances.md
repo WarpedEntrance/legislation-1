@@ -53,5 +53,5 @@ The following requirements must be met in order to achieve this clearance:
 ---
 
 :::note
-Once you have met all the requirements for a rank, you should go to the [Application Center](https://www.roblox.com/games/4571894336/Application-Center) and click "CLAIM". Once meeting each requirment, you will you will be notified in-game and/or it will be displayed in Application Center. To rank up, you must be linked with Helix. To do this, you must run the ``/getroles`` command in our [Discord](https://www.discord.gg/pathos) server.
+Once you have met all the requirements for a rank, you should go to the [Application Center](https://www.roblox.com/games/4571894336/Application-Center) and click "CLAIM". Once meeting each requirment, you will you will be notified in-game and/or it will be displayed in Application Center. To rank up, you must be linked with Helix. To do this, you must run the ``/getroles`` command in our [Discord](https://discord.gg/2UWkAbZt6B) server.
 :::
